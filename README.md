@@ -17,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  Frontend-focused engineer building products with a strong UX taste.
-  Interested in AI/ML and practical automation.
-</p>
-
 ---
 
 ### Stack
