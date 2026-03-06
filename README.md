@@ -43,7 +43,7 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,svelte,html,css,tailwind" />
 </p>
 
 **Backend / Data**
@@ -55,7 +55,7 @@
 **Tooling / Platform**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,figma,vscode,postman,aws,gcp" />
 </p>
 
 <sub>More icons can be added anytime (Docker, AWS, etc.).</sub>
