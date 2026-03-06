@@ -18,7 +18,7 @@
 
 ### Skills
 
-- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Express.js, Nest.js, Three.js
+- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Express.js, Nest.js
 - **State management:** Vuex, Redux, MobX, Pinia
 - **Styling:** HTML, CSS, Sass (SCSS), Stylus, Tailwind CSS, Bootstrap
 - **Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
