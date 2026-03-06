@@ -4,7 +4,7 @@
 <p align="center">
   <!-- TODO: replace links when ready -->
   <a href="TODO:website"><img alt="Website" src="https://img.shields.io/badge/Website-GitHub%20Pages-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="TODO:email"><img alt="Email" src="https://img.shields.io/badge/Email-TODO-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kranki@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-kranki%40mail.ru-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -14,9 +14,6 @@
   </a>
   <a href="TODO:stackoverflow" title="Stack Overflow">
     <img alt="Stack Overflow" height="34" src="https://cdn.simpleicons.org/stackoverflow/ff2ea6" />
-  </a>
-  <a href="TODO:facebook" title="Facebook">
-    <img alt="Facebook" height="34" src="https://cdn.simpleicons.org/facebook/ff2ea6" />
   </a>
   <a href="TODO:instagram" title="Instagram">
     <img alt="Instagram" height="34" src="https://cdn.simpleicons.org/instagram/ff2ea6" />
