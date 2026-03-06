@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-  <!-- Social icons (pink tiles like your example). Replace TODO links later. -->
+  <!-- Social icons. Using skillicons.dev because GitHub sometimes blocks/"camo"-breaks cdn.simpleicons.org -->
   <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/" title="LinkedIn">
-    <img alt="LinkedIn" height="34" src="https://cdn.simpleicons.org/linkedin/ff2ea6" />
+    <img alt="LinkedIn" height="42" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="TODO:stackoverflow" title="Stack Overflow">
-    <img alt="Stack Overflow" height="34" src="https://cdn.simpleicons.org/stackoverflow/ff2ea6" />
+    <img alt="Stack Overflow" height="42" src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="TODO:medium" title="Medium">
-    <img alt="Medium" height="34" src="https://cdn.simpleicons.org/medium/ff2ea6" />
+    <img alt="Medium" height="42" src="https://skillicons.dev/icons?i=medium" />
   </a>
 </p>
 
