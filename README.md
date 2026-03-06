@@ -18,17 +18,12 @@
 
 ### Skills
 
-- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Express.js, Nest.js
-- **State management:** Vuex, Redux, MobX, Pinia
-- **Styling:** HTML, CSS, Sass (SCSS), Stylus, Tailwind CSS, Bootstrap
-- **Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
-- **Build / Dev tools:** ESLint, Prettier, Husky, lint-staged, npm, pnpm, yarn
-- **API / Data fetching:** REST API, Axios, TanStack Query (React Query), SWR, Apollo Client, tRPC
-- **UI libraries:** Material UI, Ant Design, Chakra UI, Radix UI, shadcn/ui, Headless UI
-- **Architecture:** SPA / SSR / SSG, Micro-frontends, Component-driven development
-- **Animation / Graphics:** Framer Motion, GSAP, Three.js
-- **Web fundamentals:** Web Performance Optimization, Lighthouse, Core Web Vitals, Accessibility (a11y), SEO basics
-- **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
-- **Bundlers:** Webpack, Vite
-- **Deployment / Hosting:** Vercel, Netlify, Docker, CI/CD (GitHub Actions / GitLab CI)
-- **Version control:** GitHub, GitLab, Bitbucket
+- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Three.js
+- **State management:** Redux, MobX, Pinia, Vuex
+- **Styling:** HTML, CSS, Sass (SCSS), Tailwind CSS, Bootstrap
+- **API / Data fetching:** REST, GraphQL, Axios, TanStack Query, Apollo Client
+- **Testing:** Jest, Vitest, React Testing Library, Cypress
+- **DB / Backend services:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase, Strapi
+- **Build tools:** Vite, Webpack, ESLint, Prettier
+- **Deployment:** Vercel, Netlify, Docker, CI/CD
+- **Version control:** Git, GitHub, GitLab, Bitbucket
