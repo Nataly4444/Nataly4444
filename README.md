@@ -12,24 +12,11 @@
 
 ---
 
-### Stack
+### Skills
 
-<!-- Icon style like in your examples: rounded squares -->
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,svelte,html,css,tailwind" />
-</p>
-
-**Backend / Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
-</p>
-
-**Tooling / Platform**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,figma,vscode,postman,aws,gcp" />
-</p>
+- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Express.js, Nest.js, Three.js
+- **State management:** Vuex, Redux, MobX, Pinia
+- **Styling:** HTML, CSS, Sass (SCSS), Stylus, Tailwind CSS, Bootstrap
+- **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
+- **Bundlers:** Webpack, Vite
+- **Version control:** GitHub, GitLab, Bitbucket
