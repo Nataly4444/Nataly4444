@@ -11,7 +11,9 @@
   <a href="https://career.habr.com/kranski4"><img alt="Habr Career" src="https://img.shields.io/badge/Habr%20Career-career.habr.com%2Fkranski4-111?style=for-the-badge&logo=habr&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-black.png" alt="divider" width="100%" height="4" />
+</p>
 
 ### Skills
 
