@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Social icons (pink tiles like your example). Replace TODO links later. -->
-  <a href="TODO:linkedin" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/" title="LinkedIn">
     <img alt="LinkedIn" height="34" src="https://cdn.simpleicons.org/linkedin/ff2ea6" />
   </a>
   <a href="TODO:stackoverflow" title="Stack Overflow">
