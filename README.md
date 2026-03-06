@@ -58,8 +58,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,figma,vscode,postman,aws,gcp" />
 </p>
 
-<sub>More icons can be added anytime (Docker, AWS, etc.).</sub>
-
 ### Now
 - Building: personal tools, dashboards, and automation workflows
 - Focus: UI polish, performance, pragmatic architecture
