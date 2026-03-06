@@ -41,9 +41,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,figma,vscode,postman,aws,gcp" />
 </p>
-
-### Now
-- Building: personal tools, dashboards, and automation workflows
-- Focus: UI polish, performance, pragmatic architecture
-
-<sub>Links are placeholders for now — you can fill them later.</sub>
