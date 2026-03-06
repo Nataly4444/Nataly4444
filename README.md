@@ -1,12 +1,3 @@
-<!--
-Profile README for GitHub user: Nataly4444
-Name: Nataly Kudryavtseva
-Language: English only
-
-This README contains 3 alternative designs (A/B/C) in one file.
-You can later pick one and delete the other blocks.
--->
-
 <h1 align="center">Nataly Kudryavtseva</h1>
 <p align="center"><b>Software Engineer</b></p>
 
@@ -24,8 +15,6 @@ You can later pick one and delete the other blocks.
 </p>
 
 ---
-
-# Variant A — Clean + Accent
 
 ### Stack
 
@@ -56,105 +45,5 @@ You can later pick one and delete the other blocks.
 ### Now
 - Building: personal tools, dashboards, and automation workflows
 - Focus: UI polish, performance, pragmatic architecture
-
----
-
-# Variant B — Card Grid
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### About
-- Frontend-first engineer (TypeScript + React/Next.js)
-- Strong UX taste (clean UI, details, consistency)
-- Curious about AI/ML and practical automation
-
-### What I value
-- Simple architecture
-- Great defaults
-- Fast feedback loops
-- Shipping
-
-    </td>
-    <td valign="top" width="50%">
-
-### Tech I use
-**Frontend**
-- TypeScript, JavaScript
-- React, Next.js
-- HTML/CSS, Tailwind CSS
-
-**Backend / Data**
-- Node.js
-- PostgreSQL, Prisma
-- Serverless Postgres (Neon)
-
-**Platform**
-- Git/GitHub, GitHub Actions
-- Vercel
-
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-
-### Links
-- Telegram: **@kranski** (TODO)
-- Email: TODO
-- Website: TODO (GitHub Pages)
-- LinkedIn: TODO
-
-    </td>
-    <td valign="top" width="50%">
-
-### Quick badges
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=111" />
-</p>
-<p>
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk&logoColor=white" />
-</p>
-
-    </td>
-  </tr>
-</table>
-
----
-
-# Variant C — Terminal-ish
-
-```bash
-$ whoami
-Nataly Kudryavtseva
-
-$ role
-Software Engineer (frontend-focused)
-
-$ interests
-AI/ML · automation · product UX · clean systems
-```
-
-### Stack
-```bash
-TypeScript · JavaScript · React · Next.js · Tailwind CSS
-Node.js · PostgreSQL · Prisma · Vercel · Clerk
-Git · GitHub Actions
-```
-
-### Links
-- Telegram: @kranski (TODO)
-- Email: TODO
-- Website: TODO (GitHub Pages)
-- LinkedIn: TODO
-
----
 
 <sub>Links are placeholders for now — you can fill them later.</sub>
