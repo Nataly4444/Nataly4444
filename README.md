@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- TODO: replace links when ready -->
-  <a href="TODO:website"><img alt="Website" src="https://img.shields.io/badge/Website-GitHub%20Pages-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://nataly4444.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-GitHub%20Pages-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="mailto:kranki@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-kranki%40mail.ru-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-/in/natalia--kudriavtseva--944779a1-111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
