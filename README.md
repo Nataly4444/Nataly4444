@@ -15,14 +15,8 @@
   <a href="TODO:stackoverflow" title="Stack Overflow">
     <img alt="Stack Overflow" height="34" src="https://cdn.simpleicons.org/stackoverflow/ff2ea6" />
   </a>
-  <a href="TODO:instagram" title="Instagram">
-    <img alt="Instagram" height="34" src="https://cdn.simpleicons.org/instagram/ff2ea6" />
-  </a>
   <a href="TODO:medium" title="Medium">
     <img alt="Medium" height="34" src="https://cdn.simpleicons.org/medium/ff2ea6" />
-  </a>
-  <a href="TODO:x" title="X">
-    <img alt="X" height="34" src="https://cdn.simpleicons.org/x/ff2ea6" />
   </a>
 </p>
 
