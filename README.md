@@ -29,4 +29,5 @@
 - **Web fundamentals:** Web Performance Optimization, Lighthouse, Core Web Vitals, Accessibility (a11y), SEO basics
 - **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
 - **Bundlers:** Webpack, Vite
+- **Deployment / Hosting:** Vercel, Netlify, Docker, CI/CD (GitHub Actions / GitLab CI)
 - **Version control:** GitHub, GitLab, Bitbucket
