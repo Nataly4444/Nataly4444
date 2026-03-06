@@ -2,8 +2,6 @@
   <img src="./assets/banner-cosmic.png" alt="Banner" />
 </p>
 
-<h1 align="center">Nataly Kudryavtseva</h1>
-<p align="center"><b>Software Engineer</b></p>
 
 <p align="center">
   <!-- TODO: replace links when ready -->
