@@ -8,16 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/" title="LinkedIn">
-    <img alt="LinkedIn" height="22" src="https://skillicons.dev/icons?i=linkedin" />
-    LinkedIn — https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/
-  </a>
-</p>
-
-<p align="center">
-  <a href="TODO:medium" title="Medium">
-    <img alt="Medium" height="22" src="https://skillicons.dev/icons?i=medium" />
-    Medium — TODO
+  <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fnatalia--kudriavtseva--944779a1-111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
