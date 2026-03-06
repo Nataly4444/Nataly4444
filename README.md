@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Nataly Kudryavtseva</h1>
 <p align="center"><b>Software Engineer</b></p>
 
