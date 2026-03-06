@@ -9,6 +9,7 @@
   <a href="mailto:kranki@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-kranki%40mail.ru-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/natalia-kudriavtseva-944779a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-/in/natalia--kudriavtseva--944779a1-111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://career.habr.com/kranski4"><img alt="Habr Career" src="https://img.shields.io/badge/Habr%20Career-career.habr.com%2Fkranski4-111?style=for-the-badge&logo=habr&logoColor=white" /></a>
+  <a href="https://t.me/kranski"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40kranski-111?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center">
