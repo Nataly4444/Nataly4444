@@ -25,6 +25,7 @@
 - **Build / Dev tools:** ESLint, Prettier, Husky, lint-staged, npm, pnpm, yarn
 - **API / Data fetching:** REST API, Axios, TanStack Query (React Query), SWR, Apollo Client, tRPC
 - **UI libraries:** Material UI, Ant Design, Chakra UI, Radix UI, shadcn/ui, Headless UI
+- **Architecture:** SPA / SSR / SSG, Micro-frontends, Component-driven development
 - **Animation / Graphics:** Framer Motion, GSAP, Three.js
 - **Web fundamentals:** Web Performance Optimization, Lighthouse, Core Web Vitals, Accessibility (a11y), SEO basics
 - **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
