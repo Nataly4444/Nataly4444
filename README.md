@@ -18,29 +18,27 @@
 
 ### Stack
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-</p>
+<!-- Icon style like in your examples: rounded squares -->
+
+**Frontend**
 
 <p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js&logoColor=3C873A" />
-  <img alt="npm" src="https://img.shields.io/badge/npm-111?style=flat-square&logo=npm&logoColor=CB3837" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=F05032" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" />
 </p>
 
+**Backend / Data**
+
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-111?style=flat-square&logo=prisma&logoColor=2D3748" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
 </p>
+
+**Tooling / Platform**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
+</p>
+
+<sub>More icons can be added anytime (Docker, AWS, etc.).</sub>
 
 ### Now
 - Building: personal tools, dashboards, and automation workflows
