@@ -15,13 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="TODO:stackoverflow" title="Stack Overflow">
-    <img alt="Stack Overflow" height="22" src="https://skillicons.dev/icons?i=stackoverflow" />
-    Stack Overflow — TODO
-  </a>
-</p>
-
-<p align="center">
   <a href="TODO:medium" title="Medium">
     <img alt="Medium" height="22" src="https://skillicons.dev/icons?i=medium" />
     Medium — TODO
