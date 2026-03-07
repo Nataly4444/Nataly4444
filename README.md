@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-cosmic-v3.png" alt="Banner" />
+  <img src="./assets/banner-cosmic-v4.png" alt="Banner" />
 </p>
 
 
