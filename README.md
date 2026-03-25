@@ -18,19 +18,15 @@
 
 ### Skills
 
-- **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js, Express.js, Nest.js
-- **State management:** Vuex, Redux, MobX, Pinia
-- **Styling:** HTML, CSS, Sass (SCSS), Stylus, Tailwind CSS, Bootstrap
-- **Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
-- **Build / Dev tools:** ESLint, Prettier, Husky, lint-staged, npm, pnpm, yarn
-- **API / Data fetching:** REST API, Axios, TanStack Query (React Query), SWR, Apollo Client, tRPC
-- **UI libraries:** Material UI, Ant Design, Chakra UI, Radix UI, shadcn/ui, Headless UI
-- **Architecture:** SPA / SSR / SSG, Micro-frontends, Component-driven development
-- **Animation / Graphics:** Framer Motion, GSAP, Three.js
-- **Web fundamentals:** Web Performance Optimization, Lighthouse, Core Web Vitals, Accessibility (a11y), SEO basics
-- **AI / ML:** LLM APIs (OpenAI, Anthropic), RAG pipelines (vector databases, retrieval, evaluation), integrating AI features into web applications (backend + frontend), LangChain / LlamaIndex
-- **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
-- **Bundlers:** Webpack, Vite
-- **Deployment / Hosting:** Vercel, Netlify, Docker, CI/CD (GitHub Actions / GitLab CI)
-- **Version control:** GitHub, GitLab, Bitbucket
+- **Core Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js (SPA / SSR / SSG)
+- **State Management:** Redux, MobX, Pinia, TanStack Query, SWR
+- **Styling & UI:** Tailwind CSS, SCSS, shadcn/ui, Headless UI, Material UI, Chakra UI *(familiar with: Ant Design, Radix UI, Styled Components, Bootstrap)*
+- **Testing & Quality:** Jest, Vitest, React Testing Library, Cypress, Playwright, ESLint, Prettier, Husky, lint-staged
+- **Backend & APIs:** Node.js (Express.js, Nest.js), REST API, GraphQL (Apollo Client / Server), tRPC, PostgreSQL, MongoDB, MySQL, Prisma, Supabase, Firebase, Convex, Strapi
+- **Validation:** Zod, Yup
+- **AI & Integrations:** LLM APIs (OpenAI, Anthropic), LangChain, LlamaIndex, RAG pipelines (vector databases, retrieval, evaluation), AI feature integration (frontend + backend)
+- **Build & Deployment:** Webpack, Vite, Docker, CI/CD (GitHub Actions / GitLab CI), Vercel, Netlify
+- **Architecture & Best Practices:** Component-driven development, Storybook, Micro-frontends, Web Performance Optimization, Accessibility (a11y), Core Web Vitals, SEO basics
+- **Cloud / Edge:** Cloudflare, AWS Lambda, Edge Functions
+- **Version Control:** GitHub, GitLab, Bitbucket
 
