@@ -20,7 +20,7 @@
 
 - **Frontend:** React, Vue.js, Svelte, TypeScript, Next.js, Nuxt.js (SPA / SSR / SSG)
 - **State Management:** Redux, MobX, Pinia, TanStack Query, SWR
-- **Styling & UI:** Tailwind CSS, SCSS, shadcn/ui, Headless UI, Material UI, Chakra UI *(familiar with: Ant Design, Radix UI, Styled Components, Bootstrap)*
+- **Styling & UI:** Tailwind CSS, SCSS, shadcn/ui, Headless UI, Material UI, Chakra UI, Ant Design, Radix UI, Styled Components, Bootstrap
 - **Testing & Quality:** Jest, Vitest, React Testing Library, Cypress, Playwright, ESLint, Prettier, Husky, lint-staged, Zod, Yup
 - **Backend & APIs:** Node.js (Express.js, Nest.js), REST API, GraphQL (Apollo Client / Server), tRPC, PostgreSQL, MongoDB, MySQL, Prisma, Supabase, Firebase, Convex, Strapi
 - **AI & Integrations:** LLM APIs (OpenAI, Anthropic), LangChain, LlamaIndex, RAG pipelines (vector databases, retrieval, evaluation), AI feature integration (frontend + backend)
