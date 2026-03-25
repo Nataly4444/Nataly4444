@@ -28,7 +28,9 @@
 - **Architecture:** SPA / SSR / SSG, Micro-frontends, Component-driven development
 - **Animation / Graphics:** Framer Motion, GSAP, Three.js
 - **Web fundamentals:** Web Performance Optimization, Lighthouse, Core Web Vitals, Accessibility (a11y), SEO basics
+- **AI / ML:** LLM APIs (OpenAI, Anthropic), RAG pipelines (vector databases, retrieval, evaluation), integrating AI features into web applications (backend + frontend), LangChain / LlamaIndex
 - **DB / Backend services:** PostgreSQL, MySQL, GraphQL, Strapi, MongoDB, Supabase, Firebase, Convex
 - **Bundlers:** Webpack, Vite
 - **Deployment / Hosting:** Vercel, Netlify, Docker, CI/CD (GitHub Actions / GitLab CI)
 - **Version control:** GitHub, GitLab, Bitbucket
+
